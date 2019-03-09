@@ -52,17 +52,15 @@ h1 {
 
 .container {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    color: #777;
+    text-align: center;
+    color:white;
     background-color: #777;
-    width: 960px;
     font-size:12px;
     padding: 10px;
-    height:200x;
 
 }
 
 section {
-    width: 495px;
     display: block;
     height:300px;
     padding: 10px;
@@ -70,12 +68,19 @@ section {
     background-color: #ebebeb;
 }
 
+.contact {
+    text-align: center;
+    color:white;
+    background-color: #888;
+    font-size: 16px;
+    font-weight: bold;
+}
+
 
 footer {
     background-color: #333;
-    width: 1000px;
-    height: 100px;
-    padding: 10px;
+    padding: 15px;
+    margin: 10px;
     border: 1px solid white;
   }
 
