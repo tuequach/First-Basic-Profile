@@ -13,7 +13,7 @@ title {
     float: right;
     color: #f2f2f2;
     text-align: center;
-    padding: 20px 20px;
+    padding: 15px;
     text-decoration: none;
     font-size: 17px;
 }
@@ -32,18 +32,22 @@ title {
 
   /* fixing the main header of the page*/
 header {
-    padding: 20px;
-    margin-bottom: 20px;
+    padding: 15px;
+    margin-bottom: 10px;
     color: #ebebeb;
     background-color: #777;
     font-size: 20px; 
     text-align: center;
 }
 
+/*About Me Heading*/
 h1 {
     background-color:#777; 
     font-size: 20px;
     background-color: #ebebeb;
+    padding: 10px; 
+    margin-bottom: 10px;
+    text-align: center;
 }
 
 .container {
