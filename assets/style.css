@@ -33,7 +33,7 @@ title {
 
 /*----------------------------------NAVIGATION BAR------------------------------*/
 
-  /* fixing the main header of the page*/
+/*----------------------------HEADER---------------------------------------------*/
 header {
     padding: 15px;
     margin-bottom: 10px;
@@ -42,8 +42,9 @@ header {
     font-size: 20px; 
     text-align: center;
 }
+/*----------------------------------HEADER-----------------------------*/
 
-/*About Me Heading*/
+/*---------------------------About Me Heading-----------------------*/
 h1 {
     background-color:#777; 
     font-size: 20px;
