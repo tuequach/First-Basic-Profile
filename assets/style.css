@@ -35,10 +35,11 @@
 header {
     padding: 15px;
     margin-bottom: 10px;
-    color: #ebebeb;
-    background-color: #777;
+    color: black;
+    background-color: #fff;
     font-size: 20px; 
     text-align: left;
+    border-color: #ccc;
 }
 /*----------------------------------HEADER-----------------------------*/
 
@@ -50,24 +51,25 @@ header {
 }
 
 h1 {
-    background-color:#777; 
+    background-color:#fff; 
     font-size: 20px;
-    background-color: #ebebeb;
+    color: #4aaaa5;
     padding: 10px; 
     margin-bottom: auto;
     text-align: left;
+    font-family: 'Georgia', 'Times New Roman', Times, serif, serif;
 }
 
 p {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     text-align: center;
     color: black;
-    background-color: #777;
     font-size:12px;
     box-sizing: border-box; 
     width: 500px;
     margin: auto;
     float: left;
+    padding: 20px;
 }
 
 section {
@@ -172,4 +174,6 @@ footer {
     margin: auto;
     border: 1px solid white;
     clear: both;
+    border-top-color: #4aaaa5;
+    text-align: center;
   }
